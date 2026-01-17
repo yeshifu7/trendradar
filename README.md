@@ -1,5 +1,6 @@
 <div align="center" id="trendradar">
-
+first time revise 
+diy
 <a href="https://github.com/sansan0/TrendRadar" title="TrendRadar">
   <img src="/_image/banner.webp" alt="TrendRadar Banner" width="80%">
 </a>
